@@ -14,7 +14,7 @@ namespace MauticPlugin\MauticWhatsappBundle;
 use Mautic\PluginBundle\Bundle\PluginBundleBase;
 
 /**
- * Class MauticMtalkzBundle.
+ * Class MauticWhatsappBundle.
  */
 class MauticWhatsappBundle extends PluginBundleBase
 {
