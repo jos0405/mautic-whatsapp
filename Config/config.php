@@ -13,7 +13,7 @@ return [
     'name'        => 'Whatsapp',
     'description' => 'Whatsapp integration',
     'author'      => 'me@joeykeller.com',
-    'version'     => '0.0.1',
+    'version'     => '0.0.2',
     'services' => [
         'events'  => [],
         'forms'   => [
