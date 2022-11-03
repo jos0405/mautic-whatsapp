@@ -8,7 +8,7 @@ https://joeykeller.com/weekend-project-a-mautic-whatsapp-plugin
 
 ## Installation by console
 1. Download the plugin, unzip in your plugins folder
-2. Rename the folder to MautiWhatsappBundle
+2. Rename the folder to MauticWhatsappBundle
 3. `php bin/console mautic:plugins:reload`
 
 ## Usage
